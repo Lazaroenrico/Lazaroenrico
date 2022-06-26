@@ -2,7 +2,9 @@
 
 
   🙋‍♂️ Hi i'm Lázaro 
+  
   ✍ I use and study the following languages: JavaScript, Node,TypeScript, React Ejs, HTML
+  
   💼 Contact me in lazaro.enr.menezes@gmail.com
 
  <div>
