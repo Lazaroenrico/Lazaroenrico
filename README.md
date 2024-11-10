@@ -3,7 +3,7 @@
 
   🙋‍♂️ Hi i'm Lázaro 
   
-  ✍ I use and study the following languages: JavaScript, Node, EJS, React, TypeScript, HTML, NestJs, Express
+  ✍ I use and study the following languages and frameworks: JavaScript, TypeScript, NextJs, Nestjs, Express.
   
   💼 Tallk me in  lazaro.enr.menezes@gmail.com
 
